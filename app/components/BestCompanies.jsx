@@ -3,7 +3,7 @@ import React from 'react'
 const BestCompanies = () => {
   const data = [
     {
-      image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN0ve7GXj96ZxGaBMuZsfOvVi3IxnGDxUPW4HR8JDzN2qGciUEch',
+      image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN0ve7GXj96ZxGaBMuZsfOvVi3IxnGDxUPW4HR8JDzN2qGciUE',
       title: 'Stack',
       jobs: '172 Jobs',
     },
