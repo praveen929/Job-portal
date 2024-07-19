@@ -6,9 +6,10 @@ import TextSlider from './components/TextSlider';
 import FastTrack from './components/FastTrack';
 import JobCategories from './components/JobCategories';
 import BestCompanies from './components/BestCompanies';
+import LatestJobs from './components/LatestJobs';
 
 
-// import LatestJobs from './components/LatestJobs';
+
 // import Testimonials from './components/Testimonials';
 // import FAQ from './components/FAQ';
 // import CareerAdvice from './components/CareerAdvice';
@@ -23,8 +24,8 @@ function App() {
        <FastTrack />
        <JobCategories />
       <BestCompanies />
-      {/*<LatestJobs />
-      <Testimonials />
+      <LatestJobs />
+      {/*<Testimonials />
       <FAQ />
       <CareerAdvice />
       <Footer /> */}
