@@ -52,11 +52,16 @@ const FastTrack = () => {
           </div>
 
           <div className="flex-1 h-auto w-full lg:w-auto flex flex-col items-center ">
-            <img
+          {/* <img
               className="w-[80%] md:w-[70%] lg:w-[60%] h-40 md:h-52 lg:h-64 object-contain mb-3 md:mb-4 lg:mb-5"
               src="./public/image/Screenshot 2024-07-16 233017.png"
               alt="Talk on your terms"
-            />
+            /> */}
+            <img
+            className="w-[80%] md:w-[70%] lg:w-[60%] h-40 md:h-52 lg:h-64 object-contain mb-3 md:mb-4 lg:mb-5"
+            src="../public/image/Screenshot 2024-07-16 232953.pjg"
+            alt="Talk on your terms"
+          />
 
             <h1 className="text-lg md:text-xl lg:text-2xl font-semibold text-center mb-3 md:mb-4 lg:mb-5">
               Talk on your terms
