@@ -78,7 +78,7 @@ const BestCompanies = () => {
     <div className='overflow-x-hidden z-0 relative w-full min-h-screen flex items-center justify-center mb-10'>
       <div className='hero-container relative w-[95%] max-w-5xl mx-auto flex flex-col items-center justify-center pt-24 pb-2'>
         <h1 className='text-4xl md:text-5xl lg:text-7xl font-semibold text-center mb-6 md:mb-8 lg:mb-10'>
-          The Fast Track to your <br /> next job
+          Explore jobs by best<br /> companies
         </h1>
 
         <h5 className='text-[#8c8d96] text-center text-base md:text-lg lg:text-xl mb-8 md:mb-10 lg:mb-16'>
