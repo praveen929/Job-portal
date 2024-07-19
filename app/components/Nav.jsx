@@ -95,7 +95,7 @@ const Nav = () => {
 
             <div className="w-full relative h-14 ] flex group ]">
           <button className="w-full p-2 h-full rounded-lg border-2 text-xl text-black bg-white z-10 border-black delay-100 ">
-            Get Started
+            Sign Up
           </button>
 
           <div className="w-full h-full z-0 bg-black rounded-md absolute bottom-[-4px] right-[-4px] opacity-0 group-hover:opacity-100 transition-opacity duration-50"></div>
