@@ -1,0 +1,18 @@
+/* TextSlider.css */
+
+@keyframes scroll {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}
+
+.text-slider {
+  animation: scroll 80s linear infinite;
+}
+
+.text-slider:hover {
+  animation-play-state: paused;
+}
