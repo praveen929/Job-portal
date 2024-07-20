@@ -269,7 +269,7 @@ const LatestJobs = () => {
                   </div>
                   
                   <h5 className="text-[#8c8d96] absolute left-24 mt-1 flex items-center justify-center w-1/2   text-sm  mb-3 ">
-              Totla CanidiDates 
+              Totla Canididates 
                 </h5>
 
                 </div>
