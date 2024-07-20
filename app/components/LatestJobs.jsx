@@ -236,14 +236,14 @@ const LatestJobs = () => {
                 
 
                
-                <hr className='  w-full mb-3  text-black' />
+                <hr className='  w-full mb-5  text-black' />
 
                 <h5 className="text-[#8c8d96] text-start text-sm md:text-base lg:text-base mb-3 ">
               Build your reputation with a universal profile that works across
               hundreds of different kinds of employers...
                 </h5>
                 
-                <div className="text-[#8c8d96] flex items-start w-full gap-2  text-start text-sm md:text-base lg:text-base mb-6 md:mb-8 lg:mb-10">
+                <div className="text-[#8c8d96] flex items-start w-full gap-2  text-start text-sm md:text-base lg:text-base mb-7 ">
 
                   <p className='px-[0.3rem] py-[0.1rem] rounded bg-[#fef7e3] text-black font-semibold'>{item.jobType1}</p>
 
@@ -253,7 +253,7 @@ const LatestJobs = () => {
              
                 </div>
 
-                <hr className='  w-full mb-4  text-black' />
+                <hr className='  w-full mb-5  text-black' />
 
                 <div className='w-full flex mb-8 relative'>
 
