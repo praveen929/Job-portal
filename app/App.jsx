@@ -7,6 +7,7 @@ import FastTrack from './components/FastTrack';
 import JobCategories from './components/JobCategories';
 import BestCompanies from './components/BestCompanies';
 import LatestJobs from './components/LatestJobs';
+import PostJob from './components/PostJob';
 
 
 
@@ -25,8 +26,8 @@ function App() {
        <JobCategories />
       <BestCompanies />
       <LatestJobs />
-      {/*<Testimonials />
-      <FAQ />
+     <PostJob />
+      {/* <FAQ />
       <CareerAdvice />
       <Footer /> */}
     </div>
