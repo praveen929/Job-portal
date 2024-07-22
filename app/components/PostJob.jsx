@@ -79,9 +79,20 @@ const RecruiterPlatform = () => {
             <span className="icon  lg:mb-0 mb-5">🔧</span> A free applicant tracking system, or free integration
           </li>
         </ul>
-        <button className="bg-blue-600 text-white px-6 py-3 rounded-lg shadow-lg hover:bg-blue-700">
+        {/* <button className="bg-blue-600 text-white px-6 py-3 rounded-lg shadow-lg hover:bg-blue-700">
           Post a Job
-        </button>
+        </button> */}
+          
+          <div className='flex w-full items-center justify-center'>
+          <div className='w-40 relative h-14  flex group'>
+          <button className='w-full p-2 h-full rounded-lg border-2 text-xl text-white bg-[#5d5bff] z-10 border-black delay-100'>
+            Post a Job
+          </button>
+          <div className='w-full h-full z-0 bg-black rounded-md absolute bottom-[-4px] right-[-4px] opacity-0 group-hover:opacity-100 transition-opacity duration-50'></div>
+        </div>
+          </div>
+          
+          
         </div>
         
         </div>
