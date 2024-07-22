@@ -83,7 +83,7 @@ const RecruiterPlatform = () => {
           Post a Job
         </button> */}
           
-          <div className='flex w-full items-center justify-center'>
+          <div className='flex w-full lg:items-start items-center justify-center'>
           <div className='w-40 relative h-14  flex group'>
           <button className='w-full p-2 h-full rounded-lg border-2 text-xl text-white bg-[#5d5bff] z-10 border-black delay-100'>
             Post a Job
